@@ -8,7 +8,8 @@ __author__ = 'dj';
 
 
 def main():
-    print("Hello, World...")
+    i = input("请输入一个整数：")
+    print("Hello, World...", i)
     pass
     
 
