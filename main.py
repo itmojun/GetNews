@@ -9,7 +9,7 @@ __author__ = 'dj';
 
 def main():
     i = int(input("请输入一个整数："))
-    i = i + 3
+    i = i + 5
     print("Hello, 中国...", i)
     pass
     
